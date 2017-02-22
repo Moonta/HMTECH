@@ -1,0 +1,26 @@
+<%@ page pageEncoding="utf-8"%>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>주식회사 에이치엠텍</title>
+
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>  
+
+<link rel="stylesheet" type="text/css" href="<c:url value='/css/ui.css'/>" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!--[if lte IE 8]><script src="../../js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="<c:url value='/css/main.css'/>" />
+	<!--[if lte IE 8]><link rel="stylesheet" href="../../css/ie8.css"/><![endif]-->
+	<!--[if lte IE 9]><link rel="stylesheet" href="../../css/ie9.css"/><![endif]-->
+		
+<!-- jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="<c:url value='/js/common.js'/>" charset="utf-8"></script>
+
+			<script src="<c:url value='/js/jquery.min.js'/>"></script>
+			<script src="<c:url value='/js/jquery.dropotron.min.js'/>"></script>
+			<script src="<c:url value='/js/skel.min.js'/>"></script>
+			<script src="<c:url value='/js/util.js'/>"></script>
+			<!--[if lte IE 8]><script src="../../js/ie/respond.min.js"></script><![endif]-->
+			<script src="<c:url value='/js/main.js'/>"></script>	
